@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leftwall",
+    "texture": "f28bcb5c-78fb-44d2-b008-d694fa775046",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      7,
+      894
+    ],
+    "offset": [
+      -0.5,
+      2
+    ],
+    "originalSize": [
+      8,
+      898
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

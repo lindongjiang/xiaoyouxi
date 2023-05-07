@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "righttopwall",
+    "texture": "7177c192-bb3f-4fba-a4de-a4defd71cbdb",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      289,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      291,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
